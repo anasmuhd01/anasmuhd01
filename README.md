@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Django and web development**
+- 🔭 I’m currently working on a**Django project**
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me ****
 
