@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **API utilization and development**
+- 🔭 I’m currently working on **Django and web development**
 
 - 🌱 I’m currently learning 
 
-- 📫 How to reach me **anasmuhdthanal@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **Binary Numbers !**
 
